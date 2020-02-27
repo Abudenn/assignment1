@@ -1,0 +1,23 @@
+body {
+  background-image: url('https://images.unsplash.com/photo-1507525428034-b723cf961d3e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjExMjU4fQ&dpr=2&auto=format&fit=crop&w=416&h=312&q=60');
+background-size: cover;
+  
+}
+h1 {
+ font-size: 150px;
+ font family: bebas neue;
+ color: black;
+ text-align:center;
+}
+
+p.sentosa {
+color: verdana;
+font-family: gambria;
+font-size: 50px;
+}
+
+h2 {
+font-size: 80px;
+font-family: courier;
+color: black;
+}
